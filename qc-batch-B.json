@@ -1,0 +1,262 @@
+[
+  {
+    "id": "carosello-09",
+    "slide": 7,
+    "titolo": "Non ti servono più lead. Ti serve smettere di bruciarli.",
+    "cta": "FUNNEL",
+    "categoria": "errore",
+    "fase": "consapevolezza",
+    "verdetto": "SCARTATO",
+    "motivo_scarto": "Contraddizione numerica tra due slide dello stesso carosello. La slide 1 mostra un imbuto che su 100 lead chiude 6 incarichi (100 lead, 62 contattati, 24 appuntamenti, 6 incarichi). La slide 5 mostra lo stesso imbuto ma con numeri diversi e ne chiude 3 (100 contatti, 31 richiamati entro un'ora, 18 con più di due tentativi, 9 appuntamenti, 3 incarichi). Un lettore che scorre non capisce se su 100 contatti chiude 6 o 3, e i passaggi intermedi non coincidono (62 contattati contro 31 richiamati, 24 appuntamenti contro 9). Secondo problema: la slide 3 scrive \"Misura questi quattro numeri per 30 giorni\" ma di numeri ne mostra tre (38%, 71%, 34%); il quarto riquadro non è una metrica ma un'etichetta (\"Dove stai perdendo: il primo passo\"). Anche la CTA in slide 6 promette \"i 4 numeri da misurare\", quindi la promessa non è mantenuta. Terzo problema: il numero di tentativi cambia tre volte, due (slide 1), tre (slide 2), cinque (slide 7).",
+    "cosa_correggere": "1) Scegliere UNA sola serie di numeri su 100 contatti e usarla identica in slide 1 e slide 5: se il dato vero è 3 incarichi, la slide 1 deve dire 3 e i passaggi intermedi devono essere gli stessi (100 - 31 - 18 - 9 - 3). 2) Slide 3: sostituire il riquadro \"Il primo passo\" con il quarto numero vero (esempio: \"contatto → richiamato entro un'ora: 31%\"), oppure cambiare la frase in \"Misura questi tre numeri per 30 giorni\" e allineare la CTA di slide 6. 3) Uniformare i tentativi: se lo standard è cinque su canali diversi (slide 7), correggere \"due tentativi fatti male\" in slide 1 e \"molli al terzo tentativo\" in slide 2. 4) Controllare che \"12 contatti in 90 giorni\" (slide 2 e 6) sia coerente con i \"cinque tentativi\" della slide 7, oggi sembrano due sistemi diversi. Nota: la slide 4 dice \"duemila contatti fermi\" a lettere, mentre tutto il resto del carosello usa cifre, meglio uniformare.",
+    "caption": "",
+    "captionBreve": "",
+    "primoCommento": "",
+    "hashtag": [],
+    "keyword": [],
+    "altText": "",
+    "testo_slide": [
+      "PER AGENZIE IMMOBILIARI\nNon ti servono più lead. Ti serve smettere di bruciarli.\nNessun contatto nasce scarso: lo diventa dopo nove ore di silenzio e due tentativi fatti male. Il lead non era freddo: eri lento tu.\n100 lead generati\n62 contattati -38%\n24 appuntamenti -61%\n6 incarichi -75%\n@pezzmarketing 01/07",
+      "Tre tentativi non sono follow-up. SONO UNA RESA\nIl proprietario impiega dai 3 ai 9 mesi per decidere. Tu molli al terzo tentativo e poi dici che il contatto era freddo.\nCHIAMATA - WHATSAPP - EMAIL CON I DATI DI ZONA - VOCALE\n12 CONTATTI IN 90 GIORNI\n@pezzmarketing 02/07",
+      "IL VERO PROBLEMA\nNon hai un problema di lead. Hai un problema di conversione.\nCONTATTO → APPUNTAMENTO 38%\nAPPUNTAMENTO → SVOLTO 71%\nVISITA → INCARICO 34%\nDOVE STAI PERDENDO: Il primo passo\nMisura questi quattro numeri per 30 giorni. Poi valuta se ti serve davvero un'altra campagna.\n@pezzmarketing 03/07",
+      "Il tuo CRM è un cimitero. RIATTIVALO\nHai duemila contatti fermi. Un messaggio ogni 45 giorni, con un dato reale della loro zona, vale più di una campagna nuova.\n@pezzmarketing 04/07",
+      "DOVE SI PERDONO DAVVERO\nSu 100 contatti ne chiudi 3. Guarda dove evaporano gli altri 97.\nContatti arrivati 100\nRichiamati entro un'ora 31\nCon più di due tentativi 18\nAppuntamenti fissati 9\nIncarichi 3\nIl buco più grande è il primo: 69 persone su 100 non le hai nemmeno sentite in tempo. E poi dai la colpa alla qualità dei lead.\n@pezzmarketing 05/07",
+      "Commenta FUNNEL e ti mando la sequenza di 12 contatti in 90 giorni + i 4 numeri da misurare\nSe dopo questo carosello non cambi niente, almeno smetti di lamentarti.\n@pezzmarketing 06/07",
+      "DA SALVARE\nDove evaporano i tuoi contatti.\n01 Su 100 contatti, 69 non li senti nemmeno in tempo\n02 Richiama entro un'ora: è il buco più grande di tutti\n03 Cinque tentativi su canali diversi, non due\n04 Chi non risponde va in database, non nel cestino\nNon ti servono più lead: ti serve smettere di perdere quelli che hai già.\n@pezzmarketing 07/07"
+    ]
+  },
+  {
+    "id": "carosello-10",
+    "slide": 7,
+    "titolo": "La tua agenzia è identica alle altre 47 della città",
+    "cta": "IDENTITÀ",
+    "categoria": "contrarian",
+    "fase": "consapevolezza",
+    "verdetto": "OK",
+    "motivo_scarto": "",
+    "cosa_correggere": "NOTA (non blocca la pubblicazione): il conteggio delle agenzie oscilla. Slide 1 \"le altre 47 della città\", slide 5 \"le bio delle 48 agenzie della tua città\", slide 7 \"uno dei quarantasette\". Si regge (47 altre + la tua = 48) ma è meglio usare lo stesso numero in tutte e tre le slide. Seconda nota: la riga di rassicurazione della slide 6 è \"Una sola agenzia per zona. Quando è presa, è presa\", cioè l'esclusiva di zona già segnalata come da verificare nel brief: nella caption non l'ho ripresa. Terza nota: la bio di esempio \"Vendo solo case a Novara Ovest. 74 in 3 anni\" è un esempio inventato, se qualcuno la legge come un dato reale conviene marcarla come esempio.",
+    "caption": "La tua agenzia è identica alle altre 47 della città.\nStesso servizio, stessa promessa, stessa foto sorridente davanti al cartello.\n\nFai il test dei cinque secondi.\nMetti la tua vetrina in fila con quelle degli altri e prova a trovarla.\nNon ci riesci nemmeno tu.\nSe il proprietario non vede una differenza in cinque secondi sceglie per prezzo o per comodità.\nMai per te.\n\nE no, la tua zona non è troppo piccola.\nSei tu generico.\n\"Compravendite e locazioni in tutta la provincia\" non è un posizionamento.\nÈ un modo elegante per dire: faccio tutto e niente.\n\nGuarda la differenza.\n\"Agenzia immobiliare a Novara\" è generico.\n\"Vendiamo case con giardino a Novara Ovest in meno di 60 giorni\" è verticale.\nRestringere il campo non ti toglie clienti: ti rende la scelta ovvia per quelli che pagano.\n\nUn proprietario apre Instagram e legge sei bio.\n\"Professionalità e trasparenza dal 1998\".\n\"La tua casa è la nostra passione\".\n\"Serietà, esperienza, risultati\".\n\"Al tuo fianco in ogni fase\".\n\"Il partner ideale per la tua casa\".\nPoi ne legge una che dice cosa fa, dove lo fa e con quali risultati.\nLe prime cinque potrebbe scriverle qualsiasi agenzia d'Italia.\nLa sesta è quella che riceve il messaggio.\n\nLe quattro mosse sono queste.\nScegli una zona sola e diventa il nome di quella zona.\nScegli un cliente tipo: chi eredita, chi divorzia, chi si trasferisce.\nFai una promessa misurabile, non \"serietà e professionalità\".\nRipetila ogni settimana finché in zona la associano a te.\n\nDue cose che sulle slide non ci sono.\nIl posizionamento non lo scegli guardando i concorrenti: lo scegli guardando gli ultimi dieci incarichi che hai preso davvero, perché quelli ti dicono già per cosa il mercato ti sta usando.\nE finché non lo dici tu, lo decide il mercato al posto tuo: e il mercato decide sempre sul prezzo.\n\nCommenta IDENTITÀ e ti scrivo il posizionamento della tua agenzia in una frase sola.\n\n#agenziaimmobiliare #posizionamento #marketingimmobiliare #agentiimmobiliari",
+    "captionBreve": "La tua agenzia è identica alle altre 47 della città.\nStesso servizio, stessa promessa, stessa foto davanti al cartello.\nUna zona, un cliente tipo, una promessa misurabile: si diventa riconoscibili così, non con \"serietà e professionalità\".\nCommenta IDENTITÀ e ti scrivo il posizionamento della tua agenzia in una frase sola.",
+    "primoCommento": "Se vuoi provare da solo: apri le bio delle prime dieci agenzie della tua città e cancella i nomi.\nSe non riesci a capire quale è la tua, hai la risposta.\nCommenta IDENTITÀ e te ne scrivo una che non si può scambiare con nessuna.",
+    "hashtag": [
+      "#agenziaimmobiliare",
+      "#posizionamento",
+      "#marketingimmobiliare",
+      "#agentiimmobiliari"
+    ],
+    "keyword": [
+      "posizionamento agenzia immobiliare",
+      "bio Instagram agenzia immobiliare",
+      "differenziarsi dai concorrenti",
+      "promessa misurabile",
+      "cliente tipo",
+      "zona di riferimento",
+      "acquisizione incarichi"
+    ],
+    "altText": "Carosello di 7 slide per agenzie immobiliari sul posizionamento. Copertina blu scuro con la scritta \"La tua agenzia è identica alle altre 47 della città\". Nelle slide successive: una griglia di dodici foto di case in bianco e nero con una sola evidenziata in blu, una mappa scura con la frase \"Sei tu generico\", il confronto tra la frase generica \"Agenzia immobiliare a Novara\" e quella verticale \"Vendiamo case con giardino a Novara Ovest in meno di 60 giorni\", sei bio di agenzie a confronto e l'elenco finale delle quattro mosse per smettere di essere uno dei quarantasette.",
+    "testo_slide": [
+      "AGENZIE IMMOBILIARI · POSIZIONAMENTO\nLa tua agenzia è identica alle altre 47 della città.\nStesso servizio, stessa promessa, stessa foto sorridente davanti al cartello. Perché dovrebbe scegliere proprio te?\n@pezzmarketing 01/07",
+      "IL TEST DEI 5 SECONDI\nTrova la tua. Non ci riesci nemmeno tu.\n(griglia di 12 foto di case in bianco e nero, una sola evidenziata in blu con la scritta LA TUA)\nSe il proprietario non vede una differenza in cinque secondi, sceglie per prezzo o per comodità. Mai per te.\n@pezzmarketing 02/07",
+      "La tua zona non è troppo piccola. SEI TU GENERICO\n\"Compravendite e locazioni in tutta la provincia\" non è un posizionamento. È un modo elegante per dire: faccio tutto e niente.\n@pezzmarketing 03/07",
+      "COME DIVENTI RICONOSCIBILE\nUna zona. Un cliente tipo. Una promessa misurabile.\nGENERICO: \"Agenzia immobiliare a Novara\"\nVERTICALE: \"Vendiamo case con giardino a Novara Ovest in meno di 60 giorni\"\nRestringere il campo non ti toglie clienti: ti rende la scelta ovvia per quelli che pagano.\n@pezzmarketing 04/07",
+      "LE BIO DELLE 48 AGENZIE DELLA TUA CITTÀ\nUn proprietario apre Instagram e legge queste sei bio. Secondo te chi contatta?\n\"Professionalità e trasparenza dal 1998\"\n\"La tua casa è la nostra passione\"\n\"Serietà, esperienza, risultati\"\n\"Al tuo fianco in ogni fase\"\n\"Il partner ideale per la tua casa\"\n\"Vendo solo case a Novara Ovest. 74 in 3 anni.\"\nLe prime cinque bio potrebbe scriverle qualsiasi agenzia d'Italia: non dicono cosa fai, dove lo fai e con quali risultati. La sesta invece lo dice, e per questo è quella che riceve il messaggio.\n@pezzmarketing 05/07",
+      "Commenta IDENTITÀ e ti scrivo il posizionamento della tua agenzia in una frase sola\nUna sola agenzia per zona. Quando è presa, è presa.\n@pezzmarketing 06/07",
+      "DA SALVARE\nSmettere di essere uno dei quarantasette.\n01 Scegli una zona sola e diventa il nome di quella zona\n02 Scegli un cliente tipo: chi eredita, chi divorzia, chi si trasferisce\n03 Fai una promessa misurabile, non \"serietà e professionalità\"\n04 Ripetila ogni settimana finché in zona la associano a te\nRestringere il campo non ti toglie clienti: ti rende la scelta ovvia per quelli che pagano.\n@pezzmarketing 07/07"
+    ]
+  },
+  {
+    "id": "carosello-11",
+    "slide": 8,
+    "titolo": "Non perdi il cliente sul prezzo. Lo perdi sulla paura.",
+    "cta": "SOLE",
+    "categoria": "obiezione",
+    "fase": "educazione",
+    "verdetto": "SCARTATO",
+    "motivo_scarto": "Promessa non mantenuta entro l'ultima slide e contraddizione numerica. La slide 7 promette \"le 5 creative che tolgono la paura\" e la slide 8 si intitola \"Le cinque cose che tolgono la paura\", ma i punti elencati sono quattro (01-04). La slide 4, che elenca gli stessi identici quattro punti, conferma che il quinto non esiste da nessuna parte. Chi scorre fino in fondo cerca il quinto punto e non lo trova.",
+    "cosa_correggere": "1) Aggiungere il quinto punto sia in slide 4 sia in slide 8. I candidati coerenti con il resto del carosello: il preventivo spiegato voce per voce, oppure chi ti risponde e in quanto tempo dopo l'installazione (assistenza). In alternativa cambiare i titoli in \"Le quattro cose che tolgono la paura\" e la CTA della slide 7 in \"le 4 creative\". 2) Slide 4 e slide 8 sono quasi identiche (stessi quattro punti, cambiano due parole): se resta il formato \"da salvare\", differenziare la slide 4 o eliminarla. 3) Verificare il dato \"41 €\" della slide 6: è dato come costo di un appuntamento vero senza nessuna fonte né contesto. 4) I numeri della finta inserzione in slide 5 (3 clic / 0 richieste contro 214 clic / 18 richieste, la famiglia Bianchi da 2.940 € a 410 €) sono un esempio costruito: vanno etichettati come esempio, altrimenti si leggono come un caso studio reale.",
+    "caption": "",
+    "captionBreve": "",
+    "primoCommento": "",
+    "hashtag": [],
+    "keyword": [],
+    "altText": "",
+    "testo_slide": [
+      "PER AZIENDE DEL FOTOVOLTAICO\nNon perdi il cliente sul prezzo. Lo perdi sulla paura.\nHa già sentito la storia del vicino truffato. Tu gli mandi un PDF e aspetti che chiami: non chiamerà.\n@pezzmarketing 01/08",
+      "QUELLO CHE PENSA DAVVERO\nLe tre frasi che senti ogni giorno.\n\"Ci devo pensare, ne parlo con mia moglie.\" Tradotto: non mi fido ancora di te.\n\"Ho chiesto anche ad altri tre.\" Tradotto: siete tutti uguali, scelgo il più economico.\n\"Aspetto i nuovi incentivi.\" Tradotto: nessuno mi ha spiegato quanto perdo aspettando.\nNon sono obiezioni di prezzo. Sono buchi nella tua comunicazione.\n@pezzmarketing 02/08",
+      "Tu vendi kW. Lui compra TRANQUILLITÀ\nNel tuo preventivo ci sono inverter, stringhe e kWp. Nella sua testa c'è una domanda sola: \"e se mi frega pure questo?\"\n@pezzmarketing 03/08",
+      "COSA METTERE NELLE ADS\nSmetti di sponsorizzare lo sconto.\n01 L'impianto di via Roma, con la bolletta di prima e di dopo\n02 Il tuo tecnico che spiega cosa succede se piove per un mese\n03 Cosa fai se l'inverter si guasta nel 2031: nome, numero, tempi\n04 Le tre truffe del settore, spiegate da te prima che le scopra lui\n@pezzmarketing 04/08",
+      "LA TUA ADS CONTRO QUELLA CHE FUNZIONA\nIndovina quale porta appuntamenti.\nEnergia Solar Srl · Sponsorizzata: \"PREVENTIVO GRATUITO! Impianti fotovoltaici di alta qualità. Contattaci ora!!!\" - 3 clic, 0 richieste\nMarco · Impianti Novara · Sponsorizzata: \"La famiglia Bianchi pagava 2.940 € l'anno di luce. Da marzo ne paga 410. Ecco il loro impianto, in via Verdi.\" - 214 clic, 18 richieste\nStessa zona, stesso budget, stesso mese. Cambia solo che una parla di te e l'altra parla di lui.\n@pezzmarketing 05/08",
+      "41 € è quanto costa oggi un appuntamento vero SE SMETTI DI URLARE SCONTI\nTu quanto stai pagando? Se non lo sai, non stai facendo pubblicità: stai bruciando soldi con il conto alla rovescia.\n@pezzmarketing 06/08",
+      "Commenta SOLE e ti mando le 5 creative che tolgono la paura prima del preventivo\nSolo per aziende del fotovoltaico. Gli altri continuino a sperare nei portali.\n@pezzmarketing 07/08",
+      "DA SALVARE\nLe cinque cose che tolgono la paura.\n01 La bolletta prima e dopo di un cliente della sua zona\n02 Il tuo tecnico che spiega cosa succede quando piove per un mese\n03 Cosa fai se l'inverter si guasta nel 2031: nome, numero, tempi\n04 Le tre truffe del settore, raccontate da te prima che le scopra lui\nNon perdi il cliente sul prezzo: lo perdi sulla paura. Toglila prima del preventivo.\n@pezzmarketing 08/08"
+    ]
+  },
+  {
+    "id": "carosello-12",
+    "slide": 6,
+    "titolo": "Il tuo vero concorrente è il bar del paese",
+    "cta": "LEGGENDE",
+    "categoria": "obiezione",
+    "fase": "educazione",
+    "verdetto": "OK",
+    "motivo_scarto": "",
+    "cosa_correggere": "NOTA (non blocca la pubblicazione): i due importi della slide 3 (1.180 € e 3.460 € di spesa elettrica annua per una famiglia tipo) sono senza fonte. Nella caption li ho attribuiti al grafico e non li ho dati come statistica di settore. Se esiste una fonte, metterla in piccolo sulla slide. Seconda nota: il carosello 11, sempre sul fotovoltaico, usa altri importi per la stessa cosa (2.940 € l'anno che diventano 410 €): se i due post escono a pochi giorni di distanza, chi segue il profilo vede due conti diversi.",
+    "caption": "Il tuo vero concorrente non è l'azienda del paese accanto.\nÈ il bar.\n\nLì si decide se il fotovoltaico \"conviene davvero\".\nE tu in quella conversazione non ci sei.\n\nLe quattro leggende girano sempre uguali.\n\"Rientri dell'investimento in 15 anni\".\n\"D'inverno non producono niente\".\n\"Poi rovinano il tetto\".\n\"Tanto poi l'azienda sparisce\".\nOgni leggenda che non smonti nei contenuti te la ritrovi in trattativa, dove ti costa il doppio e la sconti dal tuo margine.\n\nIl conto che non fai vedere è quello della slide 3.\n1.180 € di spesa elettrica annua per chi ha installato.\n3.460 € per chi sta ancora pensando.\nUn grafico così vale più di dieci post con il pannello e il cielo azzurro.\nMettilo nelle ads.\n\nE il porta a porta non è morto: ha solo un costo assurdo.\nOtto ore di citofoni per due appuntamenti tiepidi.\nLe stesse ore investite in contenuti e campagne ti portano richieste da chi ti ha già scelto.\n\nSmontarle è semplice, basta mostrare invece di spiegare.\n\"Rientri in quindici anni\": mostra il conto vero, anno per anno.\n\"D'inverno non producono\": mostra la produzione di gennaio.\n\"Poi rovinano il tetto\": mostra un tetto tuo dopo cinque anni.\n\"Tanto l'azienda sparisce\": mostra chi risponde e in quante ore.\n\nDue cose che nelle slide non ci stavano.\nLe leggende si smontano una alla volta, un contenuto per leggenda: il post riassuntivo che le tocca tutte non lo finisce nessuno.\nE si smontano con i tuoi cantieri, non con gli studi di settore: al bar vince chi ha una faccia e un indirizzo, non chi ha la ricerca più bella.\n\nCommenta LEGGENDE e ti mando i 4 post che smontano le obiezioni prima della trattativa.\nPer chi vuole chiudere contratti, non discutere al bar.\n\n#fotovoltaico #impiantifotovoltaici #energiarinnovabile #marketingperlepmi",
+    "captionBreve": "Il tuo vero concorrente non è l'azienda del paese accanto.\nÈ il bar, dove si decide se il fotovoltaico conviene davvero.\nQuattro leggende girano sempre uguali: se non le smonti nei contenuti te le ritrovi in trattativa, dove costano il doppio.\nCommenta LEGGENDE e ti mando i 4 post che le smontano prima che ci arrivi il cliente.",
+    "primoCommento": "Prova a contare quante volte questo mese ti sei sentito dire una di queste quattro frasi.\nOgni volta è un contenuto che non hai pubblicato.\nCommenta LEGGENDE e ti mando i quattro post da fare, uno per leggenda.",
+    "hashtag": [
+      "#fotovoltaico",
+      "#impiantifotovoltaici",
+      "#energiarinnovabile",
+      "#marketingperlepmi"
+    ],
+    "keyword": [
+      "obiezioni fotovoltaico",
+      "rientro investimento fotovoltaico",
+      "produzione invernale pannelli",
+      "pannelli e tetto",
+      "spesa elettrica annua",
+      "porta a porta fotovoltaico",
+      "contenuti per aziende fotovoltaiche"
+    ],
+    "altText": "Carosello di 6 slide per aziende del fotovoltaico. Prima slide chiara con due foto di case con pannelli e il titolo \"Il tuo vero concorrente è il bar del paese\". Seconda slide scura con le quattro leggende del settore in elenco. Terza slide con un grafico a due barre: 1.180 euro di spesa elettrica annua per chi ha installato contro 3.460 euro per chi sta ancora pensando. Poi una slide sul costo del porta a porta, la slide con la richiesta di commentare LEGGENDE e l'elenco finale delle quattro leggende con la prova da mostrare per ciascuna.",
+    "testo_slide": [
+      "PER AZIENDE DEL FOTOVOLTAICO\nIl tuo vero concorrente è il bar del paese.\nLì si decide se il fotovoltaico \"conviene davvero\". E tu non sei nella conversazione.\n@pezzmarketing 01/06",
+      "LE QUATTRO LEGGENDE\nLe smonti tu o le smonta il concorrente.\n\"Rientri dell'investimento in 15 anni\"\n\"D'inverno non producono niente\"\n\"Poi rovinano il tetto\"\n\"Tanto poi l'azienda sparisce\"\nOgni leggenda che non smonti nei contenuti te la ritrovi in trattativa, dove ti costa il doppio e la sconti dal tuo margine.\n@pezzmarketing 02/06",
+      "IL CONTO CHE NON FAI VEDERE\nAspettare costa più che partire.\n1.180 € - CHI HA INSTALLATO\n3.460 € - CHI STA ANCORA PENSANDO\nSPESA ELETTRICA ANNUA · FAMIGLIA TIPO\nQuesto grafico vale più di dieci post con il pannello e il cielo azzurro. Mettilo nelle ads.\n@pezzmarketing 03/06",
+      "Il porta a porta non è morto. HA SOLO UN COSTO ASSURDO\nOtto ore di citofoni per due appuntamenti tiepidi. Le stesse ore investite in contenuti e campagne ti portano richieste da chi ti ha già scelto.\n@pezzmarketing 04/06",
+      "Commenta LEGGENDE e ti mando i 4 post che smontano le obiezioni prima della trattativa\nPer chi vuole chiudere contratti, non discutere al bar.\n@pezzmarketing 05/06",
+      "DA SALVARE\nLe quattro leggende da smontare nei contenuti.\n01 \"Rientri in quindici anni\" · mostra il conto vero, anno per anno\n02 \"D'inverno non producono\" · mostra la produzione di gennaio\n03 \"Poi rovinano il tetto\" · mostra un tetto tuo dopo cinque anni\n04 \"Tanto l'azienda sparisce\" · mostra chi risponde e in quante ore\nOgni leggenda che non smonti nei contenuti te la ritrovi in trattativa, dove costa il doppio.\n@pezzmarketing 06/06"
+    ]
+  },
+  {
+    "id": "carosello-13",
+    "slide": 7,
+    "titolo": "L'intelligenza artificiale non ti sostituisce. Ti smaschera.",
+    "cta": "IA",
+    "categoria": "contrarian",
+    "fase": "educazione",
+    "verdetto": "OK",
+    "motivo_scarto": "",
+    "cosa_correggere": "NOTA (non blocca la pubblicazione): la velocità cambia tra due slide, \"nove secondi\" in slide 1 e \"in un secondo\" in slide 2, per la stessa cosa (l'IA che sforna contenuti). Sono due iperboli, ma meglio usare lo stesso numero. Seconda nota: nelle slide 2 e 4 la riga di chiusura finisce attaccata al footer con l'handle @pezzmarketing, va alzata di qualche pixel. Terza nota: la CTA promette 6 prompt mentre il carosello insegna 4 usi, non è una contraddizione ma tanto vale allineare i due numeri.",
+    "caption": "L'intelligenza artificiale non ti sostituisce.\nTi smaschera.\n\nSe il tuo lavoro era copiare quello che fanno gli altri, adesso lo fa una macchina in nove secondi, gratis.\n\nGuarda i post che escono oggi.\n\"Nel mondo di oggi, sempre più aziende...\"\n\"Scopri come rivoluzionare il tuo business\".\n\"Non è solo un servizio: è un'esperienza\".\nNessuno di questi post ha mai venduto niente.\nDentro non c'è niente di tuo: né i tuoi numeri, né i tuoi clienti, né i tuoi errori.\n\n0 € è quanto vale un contenuto che poteva scrivere chiunque.\nL'IA ti fa risparmiare tempo, non ti regala un punto di vista.\nEd è il punto di vista l'unica cosa che i concorrenti non possono copiarti.\n\nUsala per pensare più in fretta, non per scrivere.\nFalle leggere le tue chiamate di vendita: ne tira fuori le obiezioni vere.\nFalle leggere le recensioni dei concorrenti: ti mostra dove sono deboli.\nChiedile lo stesso concetto in dieci versioni e testale nelle campagne.\nPoi mettici i tuoi numeri e la tua faccia. Sempre.\n\nLa differenza sta nel prompt.\n\"Scrivimi un post per la mia azienda di serramenti\" ti restituisce \"nel mondo di oggi la scelta dei serramenti giusti è fondamentale per il comfort della tua casa\".\n\"Queste sono le 12 obiezioni che sento in trattativa e i 3 cantieri di questo mese, scrivimi 5 post che rispondano a una obiezione ciascuno con i numeri veri\" ti restituisce il signor Rossi che pensava che 42 dB fossero marketing, poi ha dormito con la finestra sulla statale.\n\nUna cosa che sulle slide non ho scritto.\nL'IA non ti toglie il lavoro difficile, te lo sposta: prima passavi due ore a scrivere, adesso le passi a raccogliere numeri, obiezioni e frasi vere dei clienti.\nChi non ha niente da raccogliere se ne accorge subito.\n\nCommenta IA e ti mando i 6 prompt che uso ogni settimana sui clienti veri.\nNiente magie e niente sistemi rivoluzionari. Solo lavoro fatto più in fretta.\n\n#intelligenzaartificiale #contentmarketing #pmiitaliane #imprenditori",
+    "captionBreve": "L'intelligenza artificiale non ti sostituisce.\nTi smaschera.\nUn contenuto che poteva scrivere chiunque vale 0 €: l'IA ti fa risparmiare tempo, non ti regala un punto di vista.\nCommenta IA e ti mando i 6 prompt che uso ogni settimana sui clienti veri.",
+    "primoCommento": "Il test è semplice.\nPrendi il tuo ultimo post e togli il nome della tua azienda.\nSe potrebbe averlo scritto un tuo concorrente, l'hai appena pagato per niente.\nCommenta IA e ti mando i sei prompt che uso io.",
+    "hashtag": [
+      "#intelligenzaartificiale",
+      "#contentmarketing",
+      "#pmiitaliane",
+      "#imprenditori"
+    ],
+    "keyword": [
+      "intelligenza artificiale per imprenditori",
+      "prompt per contenuti",
+      "contenuti generici IA",
+      "punto di vista di marca",
+      "obiezioni in trattativa",
+      "testare le creative",
+      "IA nel marketing"
+    ],
+    "altText": "Carosello di 7 slide per imprenditori sull'uso dell'intelligenza artificiale nei contenuti. Copertina scura con la scritta \"L'intelligenza artificiale non ti sostituisce. Ti smaschera.\". Seconda slide chiara con tre frasi generiche da post e il riquadro nero \"Nessuno di questi post ha mai venduto niente\". Terza slide con un grande 0 € e la frase \"è quanto vale un contenuto che poteva scrivere chiunque\". Poi l'elenco dei quattro modi per usarla davvero, il confronto tra un prompt generico e un prompt con dati veri, la slide con la richiesta di commentare IA e il riepilogo finale.",
+    "testo_slide": [
+      "PER IMPRENDITORI\nL'intelligenza artificiale non ti sostituisce. Ti smaschera.\nSe il tuo lavoro era copiare quello che fanno gli altri, adesso lo fa una macchina in nove secondi, gratis.\n@pezzmarketing 01/07",
+      "IL PARADOSSO\nTutti usano gli stessi prompt. Tutti scrivono le stesse cose.\n\"Nel mondo di oggi, sempre più aziende...\"\n\"Scopri come rivoluzionare il tuo business\"\n\"Non è solo un servizio: è un'esperienza\"\nNessuno di questi post ha mai venduto niente.\nL'IA scrive in un secondo contenuti che non contengono niente di tuo: né i tuoi numeri, né i tuoi clienti, né i tuoi errori.\n@pezzmarketing 02/07",
+      "0 € è quanto vale un contenuto CHE POTEVA SCRIVERE CHIUNQUE\nL'IA ti fa risparmiare tempo, non ti regala un punto di vista. Ed è il punto di vista l'unica cosa che i concorrenti non possono copiarti.\n@pezzmarketing 03/07",
+      "COME USARLA DAVVERO\nNon per scrivere. Per pensare più in fretta.\n01 Le fai leggere le tue chiamate di vendita: ne tira fuori le obiezioni vere\n02 Le fai leggere le recensioni dei concorrenti: ti mostra dove sono deboli\n03 Le chiedi lo stesso concetto in 10 versioni diverse e le testi nelle ads\n04 Poi ci metti la tua faccia e i tuoi numeri. Sempre.\nL'IA moltiplica ciò che già sei. Se sei generico, moltiplica il vuoto.\n@pezzmarketing 04/07",
+      "STESSA IA, DUE RISULTATI\nLa differenza sei tu che la usi.\nIL TUO PROMPT: \"Scrivimi un post per la mia azienda di serramenti\" → \"Nel mondo di oggi, la scelta dei serramenti giusti è fondamentale per il comfort della tua casa...\"\nIL PROMPT CHE FUNZIONA: \"Queste sono le 12 obiezioni che sento in trattativa e i 3 cantieri di questo mese. Scrivimi 5 post che rispondano a una obiezione ciascuno, con i numeri veri.\" → \"Il signor Rossi pensava che 42 dB fosse marketing. Poi ha dormito con la finestra sulla statale...\"\nChi ti dice che l'IA scrive da sola non ha mai venduto niente in vita sua.\n@pezzmarketing 05/07",
+      "Commenta IA e ti mando i 6 prompt che uso ogni settimana sui clienti veri\nNiente magie e niente \"sistemi rivoluzionari\". Solo lavoro fatto più in fretta.\n@pezzmarketing 06/07",
+      "DA SALVARE\nUsare l'IA senza diventare uguale a tutti.\n01 Falle leggere le tue chiamate di vendita: ne tira fuori le obiezioni vere\n02 Falle leggere le recensioni dei concorrenti: ti mostra dove sono deboli\n03 Chiedile lo stesso concetto in dieci versioni e testale nelle campagne\n04 Poi mettici i tuoi numeri e la tua faccia. Sempre\nL'IA moltiplica quello che già sei. Se sei generico, moltiplica il vuoto.\n@pezzmarketing 07/07"
+    ]
+  },
+  {
+    "id": "carosello-14",
+    "slide": 6,
+    "titolo": "200.000 visualizzazioni. Zero clienti.",
+    "cta": "NUMERI",
+    "categoria": "framework",
+    "fase": "educazione",
+    "verdetto": "OK",
+    "motivo_scarto": "",
+    "cosa_correggere": "NOTA (non blocca la pubblicazione): i quattro valori della slide 3 (18 €, 41%, 2.400 €, 5,4x) sono un esempio e non un caso studio, ma la slide non lo dice: in caption li ho presentati come esempio, se possibile aggiungere la parola \"esempio\" sulla slide. Seconda nota: nella slide 2 la frase \"L'audience sbagliata rovina anche il tuo pubblico in ads\" usa due volte la stessa parola in due lingue, meglio \"il pubblico sbagliato rovina anche le tue campagne\".",
+    "caption": "200.000 visualizzazioni.\nZero clienti.\n\nIl reel è andato benissimo.\nIl fatturato non se n'è accorto.\n200.000 visualizzazioni, 1.400 profili visitati, 3 richieste vere.\nHai parlato a tutti tranne che a chi può comprare da te.\n\nLa viralità è un incidente, non un piano.\nNessuna impresa seria costruisce il fatturato su qualcosa che non sa ripetere il mese successivo.\nLa viralità non si programma: le rate sì.\nIl ballettino porta gente che non comprerà mai.\nUn video visto da 800 persone giuste vale di più.\n\nSmetti di guardare le visualizzazioni e guarda questi quattro numeri.\nQuanto ti costa una richiesta: nell'esempio della slide 18 €.\nQuante richieste diventano appuntamenti: 41%.\nQuanto vale in media un cliente: 2.400 €.\nQuanto rientra per ogni euro speso: 5,4 volte.\nSe non sai rispondere su questi quattro, non stai facendo marketing: ti limiti a pubblicare.\n\nMeglio noioso e redditizio che virale e povero.\nLo stesso messaggio, alle stesse persone, ogni settimana.\nSi costruisce così una macchina che porta clienti anche a Ferragosto.\n\nDue cose che sulle slide non ci sono.\nQuesti quattro numeri li tiri fuori a mano, su un foglio, in venti minuti a settimana: non ti serve nessun software e non ti serve nessuna consulenza per iniziare.\nE il primo mese fanno male, perché quasi sempre ti dicono che metà di quello che spendi non sai dove finisce.\n\nCommenta NUMERI e ti mando il foglio con i 4 numeri da misurare ogni lunedì mattina.\nPer chi paga stipendi con i clienti, non con le visualizzazioni.\n\n#marketing #kpi #piccoleimprese #socialmediamarketing",
+    "captionBreve": "200.000 visualizzazioni, 1.400 profili visitati, 3 richieste vere.\nIl reel è andato benissimo, il fatturato non se n'è accorto.\nQuanto costa una richiesta, quante diventano appuntamenti, quanto vale un cliente, quanto rientra per ogni euro speso: se non sai rispondere, stai solo pubblicando.\nCommenta NUMERI e ti mando il foglio da compilare ogni lunedì.",
+    "primoCommento": "Domanda secca: quanto ti è costata l'ultima richiesta arrivata?\nSe la risposta è \"non lo so\", il problema non sono le visualizzazioni.\nCommenta NUMERI e ti mando il foglio con i quattro numeri da guardare ogni lunedì mattina.",
+    "hashtag": [
+      "#marketing",
+      "#kpi",
+      "#piccoleimprese",
+      "#socialmediamarketing"
+    ],
+    "keyword": [
+      "costo per richiesta",
+      "richieste in appuntamenti",
+      "valore medio cliente",
+      "ritorno sulla spesa pubblicitaria",
+      "visualizzazioni e clienti",
+      "misurare il marketing",
+      "viralità"
+    ],
+    "altText": "Carosello di 6 slide sul misurare il marketing. Prima slide chiara con un grafico a barre: 200.000 visualizzazioni, 1.400 profili visitati e 3 richieste vere. Seconda slide scura con il titolo \"La viralità è un incidente, non un piano\". Terza slide con quattro riquadri: costo per richiesta 18 euro, richieste in appuntamenti 41%, valore medio cliente 2.400 euro, ritorno sulla spesa 5,4x. Poi la slide \"Meglio noioso e redditizio che virale e povero\", la richiesta di commentare NUMERI e l'elenco finale dei quattro numeri da guardare ogni lunedì.",
+    "testo_slide": [
+      "PER CHI VIVE DI CLIENTI, NON DI LIKE\n200.000 visualizzazioni. Zero clienti.\nIl reel è andato benissimo. Il fatturato non se n'è accorto: hai parlato a tutti tranne che a chi può comprare da te.\n200.000 VISUALIZZAZIONI\n1.400 PROFILI VISITATI\n3 RICHIESTE VERE\n@pezzmarketing 01/06",
+      "La viralità è un incidente. NON UN PIANO\nNessuna impresa seria costruisce il fatturato su qualcosa che non sa ripetere il mese successivo. La viralità non si programma: le rate sì.\nIl ballettino porta gente che non comprerà mai\nL'audience sbagliata rovina anche il tuo pubblico in ads\nUn video visto da 800 persone giuste vale di più\n@pezzmarketing 02/06",
+      "I NUMERI CHE CONTANO\nSmetti di guardare le visualizzazioni. Guarda questi.\nCOSTO PER RICHIESTA 18 €\nRICHIESTE → APPUNTAMENTI 41%\nVALORE MEDIO CLIENTE 2.400 €\nRITORNO SULLA SPESA 5,4x\nSe non sai rispondere su questi quattro numeri, non stai facendo marketing: ti limiti a pubblicare.\n@pezzmarketing 03/06",
+      "Meglio noioso e redditizio CHE VIRALE E POVERO\nLo stesso messaggio, alle stesse persone, ogni settimana. Si costruisce così una macchina che porta clienti anche a Ferragosto.\n@pezzmarketing 04/06",
+      "Commenta NUMERI e ti mando il foglio con i 4 numeri da misurare ogni lunedì mattina\nPer chi paga stipendi con i clienti, non con le visualizzazioni.\n@pezzmarketing 05/06",
+      "DA SALVARE\nI quattro numeri da guardare ogni lunedì.\n01 Quanto ti costa una richiesta\n02 Quante richieste diventano appuntamenti\n03 Quanto vale in media un cliente\n04 Quanto rientra per ogni euro speso\nSe non sai rispondere su questi quattro, non stai facendo marketing: ti limiti a pubblicare.\n@pezzmarketing 06/06"
+    ]
+  },
+  {
+    "id": "carosello-15",
+    "slide": 8,
+    "titolo": "Il tuo cibo è buono. Ma lo sanno solo i tuoi clienti.",
+    "cta": "COPERTI",
+    "categoria": "errore",
+    "fase": "consapevolezza",
+    "verdetto": "SCARTATO",
+    "motivo_scarto": "Slide 6: il numero contraddice l'immagine e la frase si legge in due modi. Lo screenshot mostra UNA richiesta per un tavolo da sei persone (\"Buonasera, avete posto per 6 stasera verso le 21?\") a cui il ristoratore risponde il giorno dopo, ma il testo sotto dice \"Sei tavoli persi per un messaggio non letto\". Sei coperti non sono sei tavoli, e il messaggio non letto è uno solo: chi legge si ferma a chiedersi dove siano gli altri cinque tavoli. Nella stessa slide la frase finale (\"In un anno sono più soldi di quanti ne spenderesti per farti gestire la comunicazione\") è troppo lunga da leggere in due secondi e promette un confronto economico che il carosello non mostra da nessuna parte.",
+    "cosa_correggere": "1) Slide 6: scrivere \"Un tavolo da sei perso perché hai letto il messaggio il giorno dopo\", oppure cambiare lo screenshot mettendo più richieste diverse se si vuole tenere il numero sei. 2) Slide 6: spezzare o tagliare l'ultima frase, basta \"E succede ogni settimana\". 3) Slide 4: il titolo dice \"300mila views\" e il grafico sotto dice \"visualizzazioni\", scegliere una parola sola (meglio visualizzazioni). 4) La riga della slide 7 \"Un locale per zona. Se prendo il tuo concorrente, con te non lavoro\" è l'esclusiva di zona già segnalata come da verificare nel brief: decidere se tenerla. 5) Segnalazione, non blocco: \"trattoria.danoi\" con i suoi 248 salvataggi e le 40 porzioni del venerdì è un esempio costruito, va letto come tale.",
+    "caption": "",
+    "captionBreve": "",
+    "primoCommento": "",
+    "hashtag": [],
+    "keyword": [],
+    "altText": "",
+    "testo_slide": [
+      "PER RISTORATORI\nIL TUO CIBO È BUONO. MA LO SANNO SOLO I TUOI CLIENTI.\nE sono sempre gli stessi trenta. Il problema non è la cucina: fuori da quelle quattro mura nessuno sa che esisti.\n@pezzmarketing 01/08",
+      "LE FRASI CHE TI STANNO COSTANDO COPERTI\n\"IL PASSAPAROLA BASTA E AVANZA.\"\n\"Su Instagram ci sono solo ragazzini\"\n\"Ho provato un mese, non è cambiato niente\"\n\"Le foto le faccio io col telefono\"\n\"Tanto d'estate si riempie da solo\"\n@pezzmarketing 02/08",
+      "NON DIRLO. FALLO VEDERE.\nNessuno prenota perché hai scritto \"materie prime di qualità\". Prenotano quando vedono la mozzarella aprirsi a metà e alle 22:40 gli viene fame.\nPIATTO IN PRIMO PIANO - SUONO VERO - LUCE CALDA\nUNA SOLA CHIAMATA ALL'AZIONE\n@pezzmarketing 03/08",
+      "VIRALE NON VUOL DIRE PIENO\nIL VIDEO DA 300MILA VIEWS ERA DI GENTE DI PALERMO.\nIl tuo locale è a Novara: non ti serve l'Italia, ti servono le 40.000 persone che possono raggiungerti in venti minuti.\n300.000 VISUALIZZAZIONI - 7 PRENOTAZIONI\nRaggio di 20 km, orario di cena, chi ama la cucina di pesce: questa è pubblicità. Il resto è intrattenimento.\n@pezzmarketing 04/08",
+      "IL POST CHE FA PRENOTARE\nNON IL PIATTO. LA FAME.\ntrattoria.danoi · Novara · 1,2 km da te\n\"Ogni venerdì ne facciamo 40. Alle 21 sono finite. Prenoti dal link, non dai commenti.\"\nPRENOTA ORA - 248 salvataggi\nPiatto in primo piano, scarsità vera, una sola azione da fare. Il resto sono foto del locale vuoto alle 17.\n@pezzmarketing 05/08",
+      "DOVE FINISCONO LE PRENOTAZIONI\nTI SCRIVONO. TU LEGGI DOMANI.\nWHATSAPP · VENERDÌ 19:42\n\"Buonasera, avete posto per 6 stasera verso le 21?\"\n\"Buongiorno, sì certo!\" - sabato 11:03 · hanno cenato altrove\nSei tavoli persi per un messaggio non letto. In un anno sono più soldi di quanti ne spenderesti per farti gestire la comunicazione.\n@pezzmarketing 06/08",
+      "COMMENTA COPERTI e ti mando il piano per riempire il martedì sera senza sconti del 50%\nUn locale per zona. Se prendo il tuo concorrente, con te non lavoro.\n@pezzmarketing 07/08",
+      "DA SALVARE\nRIEMPIRE IL LOCALE SENZA SCONTI.\n01 Filma il piatto, non scrivere che è buono\n02 Parla solo a chi può raggiungerti in venti minuti\n03 Una serata che esiste solo il martedì: un piatto, un ospite, una storia\n04 Dieci euro al giorno, sempre attivi, sulla tua zona\nNessuno prenota perché hai scritto \"materie prime di qualità\".\n@pezzmarketing 08/08"
+    ]
+  },
+  {
+    "id": "carosello-16",
+    "slide": 7,
+    "titolo": "Le foto belle non salvano una strategia che non c'è",
+    "cta": "LANCIO",
+    "categoria": "framework",
+    "fase": "considerazione",
+    "verdetto": "SCARTATO",
+    "motivo_scarto": "Nello stesso carosello ci sono due piani a 21 giorni diversi e incompatibili. Slide 2 (\"I primi 21 giorni\"): giorno 0 lista d'attesa al database, giorno 2 campagna sul raggio di 8 km, giorno 7 porte aperte, giorno 21 report. Slide 5 e slide 7 (\"Il piano dei primi 21 giorni\"): giorni 1-3 servizio fotografico, giorno 4 anteprima al database, giorni 5-12 campagna sul raggio di 15 km a 20 € al giorno, giorni 13-18 retargeting, giorno 21 report. Cambia quando si avvisa il database (giorno 0 o giorno 4) e cambia il raggio della campagna (8 km o 15 km). Il carosello promette un foglio da far firmare al proprietario al primo incontro, ma il foglio è scritto in due versioni diverse. Secondo problema, di impaginazione ma bloccante: nella slide 5 le ultime righe finiscono sotto l'handle @pezzmarketing e il numero di pagina, e la frase \"Quanti dei tuoi concorrenti possono mettere questo foglio sul tavolo\" risulta illeggibile.",
+    "cosa_correggere": "1) Tenere un solo calendario, consigliato quello della slide 5 perché è il più dettagliato, e riscrivere la slide 2 con le stesse tappe e lo stesso raggio: o 8 km ovunque o 15 km ovunque. Se le porte aperte del giorno 7 restano, vanno inserite anche in slide 5 e 7, altrimenti spariscono a metà carosello. 2) Slide 5: alzare il blocco di testo finale o togliere una riga, oggi è coperto dal footer. 3) Slide 4: chiarire come si arrivi a -1,8% dal richiesto con \"0 ribassi\" (il ribasso è di listino, lo sconto è in trattativa): così com'è sembra un errore. 4) Slide 5: il numero \"340 acquirenti già profilati\" è dato come fatto, verificare o togliere il numero.",
+    "caption": "",
+    "captionBreve": "",
+    "primoCommento": "",
+    "hashtag": [],
+    "keyword": [],
+    "altText": "",
+    "testo_slide": [
+      "PER AGENTI IMMOBILIARI\nLe foto belle non salvano una strategia che non c'è.\nHai speso 400 € tra fotografo e virtual tour, poi hai pubblicato e hai aspettato. Questo non è un lancio: è una vetrina che paghi tu.\n@pezzmarketing 01/07",
+      "I PRIMI 21 GIORNI\nUn immobile si lancia. Non si pubblica.\nGIORNO 0 - Lista d'attesa: lo mandi ai clienti in database, prima del mercato\nGIORNO 2 - Campagna sul raggio di 8 km, non \"in tutta la provincia\"\nGIORNO 7 - Porte aperte a orario unico: crea coda, non appuntamenti sparsi\nGIORNO 21 - Report scritto al proprietario: visite, offerte, cosa cambiamo\n@pezzmarketing 02/07",
+      "Il proprietario non paga le fotografie. PAGA IL RISULTATO\nQuando gli mostri il piano dei primi 21 giorni, la provvigione smette di essere un costo e diventa un investimento con delle scadenze precise.\n@pezzmarketing 03/07",
+      "LO STESSO IMMOBILE, DUE MONDI\nPubblicato contro lanciato.\nPUBBLICATO: 184 gg sul mercato - RIBASSI 3 - -9,4% dal richiesto\nLANCIATO: 47 gg sul mercato - RIBASSI 0 - -1,8% dal richiesto\nStessa casa, stessa zona, stesso mese: cambia solo chi l'ha gestita.\n@pezzmarketing 04/07",
+      "IL PIANO DEI PRIMI 21 GIORNI\nQuesto lo firmi al primo incontro. La provvigione non si discute più.\nGIORNI 1-3 - Servizio fotografico, planimetria, video verticale\nGIORNO 4 - Anteprima al database: 340 acquirenti già profilati\nGIORNI 5-12 - Campagna a pagamento sul raggio di 15 km, 20 € al giorno\nGIORNI 13-18 - Retargeting su chi ha guardato il video per più di 15 secondi\nGIORNO 21 - Report scritto: visite, contatti, offerte. Nero su bianco\nQuanti dei tuoi concorrenti possono mettere questo foglio sul tavolo? Nessuno. Per questo trattano sulla percentuale. [NOTA: questa frase è parzialmente coperta dall'handle e dal numero di pagina]\n@pezzmarketing 05/07",
+      "Commenta LANCIO e ti mando il piano dei primi 21 giorni da mostrare al proprietario\nSe dopo questo carosello non cambi niente, almeno smetti di lamentarti.\n@pezzmarketing 06/07",
+      "DA SALVARE\nIl lancio dei primi 21 giorni.\n01 Giorni 1-3 · foto, planimetria, video verticale\n02 Giorno 4 · anteprima al database, prima della pubblicazione\n03 Giorni 5-12 · campagna a pagamento su quindici chilometri\n04 Giorno 21 · report scritto al proprietario: visite, contatti, offerte\nQuanti dei tuoi concorrenti mettono questo foglio sul tavolo? Nessuno. Per questo trattano.\n@pezzmarketing 07/07"
+    ]
+  }
+]
